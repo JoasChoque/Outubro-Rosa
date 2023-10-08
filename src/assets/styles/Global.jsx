@@ -8,6 +8,10 @@ const GlobalStyle = createGlobalStyle`
   box-sizing: border-box;
 }
 
+body{
+  background-color: #FBE0F8;
+}
+
 a{
   text-decoration: none;
   color: inherit;
