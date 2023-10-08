@@ -11,10 +11,10 @@ function Header(){
     <S.Header>
 
       <S.Lista>
-        <li>Inicio</li>
-        <li>Sobre</li>
-        <li>Contato</li>
-        <li>Contribua</li>
+        <a href=""><S.ListaItem>Inicio</S.ListaItem></a>
+        <a href=""><S.ListaItem>Sobre</S.ListaItem></a>
+        <a href=""><S.ListaItem>Contato</S.ListaItem></a>
+        <a href=""><S.ListaItem>Contribua</S.ListaItem></a>
       </S.Lista>
 
       <S.DivImages>
