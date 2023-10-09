@@ -14,7 +14,8 @@ function Main() {
                 <S.MainDivEnd>
                 <Header/>
                 <S.MainDivContent>
-                        <S.MainTitle>Outubro Rosa: Conscientização e Esperança</S.MainTitle>
+                    <S.ImgMobile src={OutubroRosa} alt="Imagem Outubro Rosa"/>
+                        <S.MainTitle> <S.Span> Outubro Rosa:</S.Span>  Conscientização e Esperança</S.MainTitle>
                         <S.MainText>O Outubro Rosa é um movimento global que acontece em outubro para aumentar a conscientização sobre o câncer de mama. A cor rosa é o símbolo dessa causa, representando esperança e solidariedade. Durante este mês, lembramos a importância da detecção precoce, apoio às pessoas afetadas e doações para a pesquisa. Vamos juntos lutar contra o câncer de mama.</S.MainText>
                         <S.MainButton>Saiba mais</S.MainButton>
                         </S.MainDivContent>
